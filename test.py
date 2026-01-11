@@ -1,4 +1,4 @@
-#ceci est notre premier script python
+#c'est notre 1er script python
 print("bonjour git")
 
 
