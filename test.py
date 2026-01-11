@@ -1,1 +1,2 @@
-#c'est notre premier script
+#ceci est notre premier script python
+
